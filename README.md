@@ -1,2 +1,2 @@
 # etec
-Este repositório é um sobre html e css
+Este repositório é uma fonte de pesquisa sobre HTML e CSS
